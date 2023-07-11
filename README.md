@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monicadasi
-- 👀 I’m interested in software development and coding in C++, Python
+- 👀 I’m interested in learning machine algorithms, software development and coding in C++, Python
 - 🌱 I’m currently learning C++14 and Python advanced.
 - 💞️ I would like to collaborate on interesting projects. 
 - 📫 How to reach me : monicadasi18@gmail.com
