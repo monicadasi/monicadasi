@@ -4,8 +4,7 @@
 - 💞️ I would like to collaborate on interesting projects. 
 - 📫 How to reach me: monicadasi18@gmail.com
 
-
-<div style="display: flex;justify-content: space-between;">
+<div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicadasi&layout=compact&theme=transparent" alt="Programming Languages" width="38%">
   <img src="https://github-readme-stats.vercel.app/api?username=monicadasi&rank_icon=github&show_icons=true&theme=transparent" alt="Monica's Github Stats" width="50%">
 </div>
