@@ -1,9 +1,9 @@
+[![Linkedin:monica](https://img.shields.io/badge/Monica%20Dasi-gray?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/monica-dasi-md/)](https://www.linkedin.com/in/monica-dasi-md/)
 - 👋 Hi, I’m @monicadasi  
 - 👀 I’m interested in working on machine algorithms, software development and coding in C++, Python
 - 🌱 I’m currently learning C++14 and Python advanced.
 - 💞️ I would like to collaborate on interesting projects. 
 - 📧 How to reach me: monicadasi18@gmail.com
-- 💬 LinkedIn: [![Linkedin:monica](https://img.shields.io/badge/Monica%20Dasi-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-dasi-md/)](https://www.linkedin.com/in/monica-dasi-md/)
 
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicadasi&layout=compact&theme=transparent" alt="Programming Languages" width="38%">
