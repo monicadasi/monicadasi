@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @monicadasi  
 - 👀 I’m interested in working on machine learning algorithms, software development and coding in C++, Python.
-- 🌱 I’m currently learning C++14 and Python advanced.
+- 🌱 I’m currently learning C++14/17 and Python advanced.
 - 💞️ I would like to collaborate on interesting projects. 
 - 📧 How to reach me -> monicadasi18@gmail.com
 
