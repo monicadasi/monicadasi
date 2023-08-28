@@ -1,4 +1,6 @@
-[![Linkedin:monica](https://img.shields.io/badge/Monica%20Dasi-gray?logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/monica-dasi-md/)](https://www.linkedin.com/in/monica-dasi-md/)
+[![Linkedin:monica](https://img.shields.io/badge/Monica%20Dasi-gray?logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/monica-dasi-md/)](https://www.linkedin.com/in/monica-dasi-md/) 
+[![Github:monica](https://img.shields.io/badge/Portfolio-gray?logo=github&labelColor=black&link=https://monicadasi.github.io/)](https://monicadasi.github.io/)
+
 - 👋 Hi, I’m @monicadasi  
 - 👀 I’m interested in working on machine learning algorithms, software development and coding in C++, Python.
 - 🌱 I’m currently learning C++14 and Python advanced.
