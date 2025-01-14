@@ -1,4 +1,4 @@
-[![Linkedin:monica](https://img.shields.io/badge/Monica%20Dasi-gray?logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/monica-dasi-md/)](https://www.linkedin.com/in/monica-dasi-md/) 
+[![Monica Dasi](https://custom-icon-badges.demolab.com/badge/Monica%20Dasi-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/monica-dasi-md/)
 [![Github:monica](https://img.shields.io/badge/Portfolio-gray?logo=github&labelColor=black&link=https://monicadasi.github.io/)](https://monicadasi.github.io/)
 
 - 👋 Hi, I’m @monicadasi  
